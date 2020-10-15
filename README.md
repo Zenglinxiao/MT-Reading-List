@@ -467,7 +467,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 
 <h4 id="data_augmentation">Data Augmentation Methods</h4>
 
-* Marzieh Fadaee, Arianna Bisazza, and Christof Monz. 2017. [Data Augmentation for Low-Resource Neural Machine Translation](http://aclweb.org/anthology/P17-2090). In *Proceedings of ACL 2017*. ([Citation](https://scholar.google.com/scholar?cites=6141657859614474985&as_sdt=2005&sciodt=0,5&hl=en): 26)
+- [x] Marzieh Fadaee, Arianna Bisazza, and Christof Monz. 2017. [Data Augmentation for Low-Resource Neural Machine Translation](http://aclweb.org/anthology/P17-2090). In *Proceedings of ACL 2017*. ([Citation](https://scholar.google.com/scholar?cites=6141657859614474985&as_sdt=2005&sciodt=0,5&hl=en): 26)
 - [x] Marzieh Fadaee and Christof Monz. 2018. [Back-Translation Sampling by Targeting Difficult Words in Neural Machine Translation](http://aclweb.org/anthology/D18-1040). In *Proceedings of EMNLP 2018*. 
 - [x] Sergey Edunov, Myle Ott, Michael Auli, and David Grangier. 2018. [Understanding Back-Translation at Scale](http://aclweb.org/anthology/D18-1045). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?cites=5388849145974890035&as_sdt=2005&sciodt=0,5&hl=en): 6)
 - [x] Xinyi Wang, Hieu Pham, Zihang Dai, and Graham Neubig. 2018. [SwitchOut: an Efficient Data Augmentation Algorithm for Neural Machine Translation](http://aclweb.org/anthology/D18-1100). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?cites=3839046500027819595&as_sdt=2005&sciodt=0,5&hl=en): 4)
@@ -477,8 +477,8 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Yuanpeng Li, Liang Zhao, Jianyu Wang, and Joel Hestness. 2019. [Compositional Generalization for Primitive Substitutions](https://arxiv.org/pdf/1910.02612). In *Proceedings of EMNLP 2019*.  
 - [x] Guanlin Li, Lemao Liu, Guoping Huang, Conghui Zhu and Tiejun Zhao. 2019. [Understanding Data Augmentation in Neural Machine Translation: Two Perspectives towards Generalization](https://www.aclweb.org/anthology/D19-1570/). In *Proceedings of EMNLP 2019*.  
 - [x] Sergey Edunov, Myle Ott, Marc’Aurelio Ranzato and Michael Auli. 2020. [On The Evaluation of Machine Translation Systems Trained With Back-Translation](https://arxiv.org/abs/1908.05204). In *Proceedings of ACL 2020*.
-* Aditya Siddhant, Ankur Bapna, Yuan Cao, Orhan Firat, Mia Chen, Sneha Kudugunta, Naveen Arivazhagan and Yonghui Wu. 2020. [Leveraging Monolingual Data with Self-Supervision for Multilingual Neural Machine Translation](https://arxiv.org/abs/2005.04816). In *Proceedings of ACL 2020*.
-* Jitao XU, Josep Crego and Jean Senellart. 2020. [Boosting Neural Machine Translation with Similar Translations](https://www.aclweb.org/anthology/2020.acl-main.144/). In *Proceedings of ACL 2020*.
+- [x] Aditya Siddhant, Ankur Bapna, Yuan Cao, Orhan Firat, Mia Chen, Sneha Kudugunta, Naveen Arivazhagan and Yonghui Wu. 2020. [Leveraging Monolingual Data with Self-Supervision for Multilingual Neural Machine Translation](https://arxiv.org/abs/2005.04816). In *Proceedings of ACL 2020*.
+- [x] Jitao XU, Josep Crego and Jean Senellart. 2020. [Boosting Neural Machine Translation with Similar Translations](https://www.aclweb.org/anthology/2020.acl-main.144/). In *Proceedings of ACL 2020*.
 * Yong Cheng, Lu Jiang, Wolfgang Macherey and Jacob Eisenstein. 2020. [AdvAug: Robust Adversarial Augmentation for Neural Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.529/). In *Proceedings of ACL 2020*.
 - [x] Benjamin Marie, Raphael Rubino and Atsushi Fujita. 2020. [Tagged Back-translation Revisited: Why Does It Really Work?](https://www.aclweb.org/anthology/2020.acl-main.532/). In *Proceedings of ACL 2020*.
 
