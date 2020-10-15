@@ -97,6 +97,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Michel Galley and Christopher D. Manning. 2008. [A Simple and Effective Hierarchical Phrase Reordering Model](https://nlp.stanford.edu/pubs/emnlp08-lexorder.pdf). In *Proceedings of EMNLP 2008*. ([Citation](https://scholar.google.com.hk/scholar?cites=14572547803642015856&as_sdt=2005&sciodt=0,5&hl=en): 275)
 
 <h3 id="syntax_based_models">Syntax-based Models</h3>
+
 * Dekai Wu. 1997. [Stochastic Inversion Transduction Grammars and Bilingual Parsing of Parallel Corpora](http://aclweb.org/anthology/J97-3002). *Computational Linguistics*. ([Citation](https://scholar.google.com.hk/scholar?cites=7926725626202301933&as_sdt=2005&sciodt=0,5&hl=en): 1,009)
 * Michel Galley, Jonathan Graehl, Kevin Knight, Daniel Marcu, Steve DeNeefe, Wei Wang, and Ignacio Thayer. 2006. [Scalable Inference and Training of Context-Rich Syntactic Translation Models](http://aclweb.org/anthology/P06-1121). In *Proceedings of COLING/ACL 2006*. ([Citation](https://scholar.google.com.hk/scholar?cites=2650671041278094269&as_sdt=2005&sciodt=0,5&hl=en): 475)
 * Yang Liu, Qun Liu, and Shouxun Lin. 2006. [Tree-to-String Alignment Template for Statistical Machine Translation](http://aclweb.org/anthology/P06-1077). In *Proceedings of COLING/ACL 2006*. ([Citation](https://scholar.google.com.hk/scholar?cites=8683308453323663525&as_sdt=2005&sciodt=0,5&hl=en): 391)
